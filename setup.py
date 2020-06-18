@@ -11,7 +11,7 @@ setuptools.setup(
   description="A utility to calculate hashes for use in DNS Catalog Zones",
   long_description=long_description,
   long_description_content_type="text/markdown",
-  url="https://github.com/illallangi/DnsCatalogHash",
+  url="https://github.com/illallangi/DNSCatalogHash",
   packages=setuptools.find_packages(),
   classifiers=[
       "Programming Language :: Python :: 3",
