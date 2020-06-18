@@ -23,11 +23,11 @@ ARG BUILD_DATE
 LABEL maintainer="Andrew Cole <andrew.cole@illallangi.com>" \
       org.label-schema.build-date=${BUILD_DATE} \
       org.label-schema.description="A utility to calculate hashes for use in DNS Catalog Zones" \
-      org.label-schema.name="DnsCatalogHash" \
+      org.label-schema.name="DNSCatalogHash" \
       org.label-schema.schema-version="1.0" \
-      org.label-schema.url="http://github.com/illallangi/DnsCatalogHash" \
-      org.label-schema.usage="https://github.com/illallangi/DnsCatalogHash/blob/master/README.md" \
+      org.label-schema.url="http://github.com/illallangi/DNSCatalogHash" \
+      org.label-schema.usage="https://github.com/illallangi/DNSCatalogHash/blob/master/README.md" \
       org.label-schema.vcs-ref=$VCS_REF \
-      org.label-schema.vcs-url="https://github.com/illallangi/DnsCatalogHash" \
+      org.label-schema.vcs-url="https://github.com/illallangi/DNSCatalogHash" \
       org.label-schema.vendor="Illallangi Enterprises" \
       org.label-schema.version=$VERSION
